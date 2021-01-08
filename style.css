@@ -17,7 +17,7 @@ body {
     justify-content: center;
 }
 
-.intagram-wrapper {
+.instagram-wrapper {
     display: flex;
     align-items: center;
     justify-content: start;
@@ -60,8 +60,8 @@ body {
     min-height: 19rem;
 }
 
-.intagram-logo {
-    height: 3rem;
+.instagram-logo {
+    height: 4rem;
 }
 
 .profile-photo {
